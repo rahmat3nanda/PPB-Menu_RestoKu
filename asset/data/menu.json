@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nama": "Korean Sandwich",
+    "foto": "https://images.tokopedia.net/img/cache/700/product-1/2020/6/23/8156200/8156200_2310dcfe-14c7-456b-86fe-04fa902b6655_720_720.jpg",
+    "harga": 49999,
+    "kategori": 1,
+    "keterangan": "Sandwich Korea yang viral"
+  },
+  {
+    "id": 2,
+    "nama": "Salad Ayam Panggang",
+    "foto": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/12/23/2e63b532-fad4-4f59-9508-d0c852329ef4.jpg",
+    "harga": 54999,
+    "kategori": 1,
+    "keterangan": "Salad Sayur dengan Ayam Panggang khas NatureBar"
+  },
+  {
+    "id": 3,
+    "nama": "Sup Jagung Manis",
+    "foto": "https://www.resepistimewa.com/wp-content/uploads/resep-sup-jagung.jpg",
+    "harga": 24499,
+    "kategori": 2,
+    "keterangan": "Sup Jagung manis"
+  },
+  {
+    "id": 4,
+    "nama": "Chicken Soup",
+    "foto": "https://www.seriouseats.com/thmb/yo-ivdSdFo9BzEToa4VgkSw9KV0=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__12__20171115-chicken-soup-vicky-wasik-11-80db1a04d84a43a089e0559efdddd517.jpg",
+    "harga": 35999,
+    "kategori": 2,
+    "keterangan": "Sup Ayam Gurih nyoi"
+  },
+  {
+    "id": 5,
+    "nama": "Nasi Goreng Kepiting",
+    "foto": "https://img.kurio.network/Dwswy0ZoTs-FNYHRvmiLcrTsG_Y=/440x440/filters:quality(80)/https://kurio-img.kurioapps.com/20/04/26/26bfeaa8-e1ee-4846-b8f1-c1f673c8727d.jpeg",
+    "harga": 69499,
+    "kategori": 3,
+    "keterangan": "Ini nasi bukan sembarang nasi, tapi nasi yang digoreng lalu diadukan dengan kepiting"
+  },
+  {
+    "id": 6,
+    "nama": "Nasi Kebuli Kambing",
+    "foto": "https://asset.kompas.com/crops/SL1gkrkWhEO3KIeTVm_YHyHbLYw=/0x32:740x525/750x500/data/photo/2020/01/29/5e318a767ddea.jpg",
+    "harga": 72999,
+    "kategori": 3,
+    "keterangan": "Mungkin dia sering dibuli, makanya dikasih nama nasi ke(-)buli"
+  },
+  {
+    "id": 7,
+    "nama": "Chocolate Soft Cookies",
+    "foto": "https://asset.kompas.com/crops/CBXf3Xp-V5-rueK6ueI5PPqM7J8=/0x0:1000x667/750x500/data/photo/2020/09/02/5f4f7912b82a6.jpg",
+    "harga": 17499,
+    "kategori": 4,
+    "keterangan": "Kukis coklat yang sangat lembut, selembut belaian pacarnya teman"
+  },
+  {
+    "id": 8,
+    "nama": "Ice Tea",
+    "foto": "https://5.imimg.com/data5/GD/GM/MY-764091/ice-tea-500x500.png",
+    "harga": 14999,
+    "kategori": 5,
+    "keterangan": "Minuman kebanggan Indonesia, apapun makannya, minumnya wajib es teh"
+  },
+  {
+    "id": 9,
+    "nama": "Ice Lemon Tea",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Iced_Tea_from_flickr.jpg/170px-Iced_Tea_from_flickr.jpg",
+    "harga": 17999,
+    "kategori": 5,
+    "keterangan": "Es Teh emang seger sih, tapi kalo ditambahin lemon, pasti jadi segerrr(r nya 3)"
+  }
+]

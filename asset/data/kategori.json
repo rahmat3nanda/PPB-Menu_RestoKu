@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nama": "Appetizer",
+    "keterangan": "Makanan Pembuka"
+  },
+  {
+    "id": 2,
+    "nama": "Soup",
+    "keterangan": "Sup, bisa sebagai pelengkap Main Course"
+  },
+  {
+    "id": 3,
+    "nama": "Main Course",
+    "keterangan": "Hidangan utama, makanan berat"
+  },
+  {
+    "id": 4,
+    "nama": "Dessert",
+    "keterangan": "Makanan/Minuman manis, cocok untuk hidangan penutup/pencuci mulut"
+  },
+  {
+    "id": 5,
+    "nama": "Beverage",
+    "keterangan": "Minuman"
+  }
+]
